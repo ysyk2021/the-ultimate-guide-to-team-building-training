@@ -1,5 +1,3 @@
-Bubble Soccer Match
-======================================================
 
 Bubble Soccer Match is a team-building activity that promotes teamwork, communication, and fun by challenging teams to play soccer while wearing inflatable bubbles. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

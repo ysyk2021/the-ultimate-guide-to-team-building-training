@@ -1,5 +1,3 @@
-Foreign Language Immersion Day
-=================================================================
 
 Foreign Language Immersion Day is a team-building activity that promotes communication, cultural awareness, and language learning by immersing teams in a foreign language and culture for a day. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

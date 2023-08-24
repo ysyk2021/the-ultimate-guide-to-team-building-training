@@ -1,5 +1,3 @@
-Rock Climbing or Bouldering Challenge
-========================================================================
 
 Rock Climbing or Bouldering Challenge is a team-building activity that promotes trust, communication, and problem-solving by challenging teams to navigate a rock climbing or bouldering course. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

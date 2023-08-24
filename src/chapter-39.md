@@ -1,5 +1,3 @@
-Board Game Tournament
-========================================================
 
 A Board Game Tournament is a team-building activity that promotes friendly competition, problem-solving, and strategic thinking. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

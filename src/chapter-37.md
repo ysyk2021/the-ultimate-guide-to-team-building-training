@@ -1,5 +1,3 @@
-Productivity Training
-========================================================
 
 Productivity Training is a team-building activity that promotes productivity, time management, and goal setting by providing tools and techniques for improving individual and team performance. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

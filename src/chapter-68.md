@@ -1,5 +1,3 @@
-Murder Mystery Dinner Party
-==============================================================
 
 The Murder Mystery Dinner Party is a fun and interactive team-building activity that promotes problem-solving, collaboration and communication. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

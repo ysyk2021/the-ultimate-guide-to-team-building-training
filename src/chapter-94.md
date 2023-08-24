@@ -1,5 +1,3 @@
-Innovation And Creativity Training
-=====================================================================
 
 The Innovation and Creativity Training is a team-building activity that promotes creative problem-solving, innovation and collaboration. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

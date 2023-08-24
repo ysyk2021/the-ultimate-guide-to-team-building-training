@@ -1,5 +1,3 @@
-Indoor/Outdoor Games
-=======================================================
 
 Indoor/Outdoor Games are team-building activities that promote teamwork, communication, and problem-solving. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

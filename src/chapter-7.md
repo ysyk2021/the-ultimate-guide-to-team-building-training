@@ -1,5 +1,3 @@
-Go-Kart Race
-===============================================
 
 Go-Kart Race is a team-building activity that promotes communication, collaboration, and problem-solving by challenging teams to work together to race go-karts. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

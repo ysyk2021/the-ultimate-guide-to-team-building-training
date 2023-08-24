@@ -1,5 +1,3 @@
-Paintball or Laser Tag Competition
-=====================================================================
 
 Paintball or Laser Tag Competition is a team-building activity that promotes teamwork, strategy, and communication. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

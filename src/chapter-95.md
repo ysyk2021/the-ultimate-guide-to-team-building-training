@@ -1,5 +1,3 @@
-Virtual Reality Team-Building Game
-=====================================================================
 
 Virtual Reality Team-Building Game is a team-building activity that promotes collaboration, problem-solving, and communication skills through immersive VR technology. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

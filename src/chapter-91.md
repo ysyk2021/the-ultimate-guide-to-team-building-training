@@ -1,5 +1,3 @@
-Ping-Pong Or Foosball Tournament
-===================================================================
 
 A Ping-Pong or Foosball Tournament is a team-building activity that promotes friendly competition, teamwork, and stress relief. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

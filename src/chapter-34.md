@@ -1,5 +1,3 @@
-Escape Room Challenge
-========================================================
 
 Escape Room Challenge is a team-building activity that promotes problem-solving, communication, and teamwork by challenging teams to solve puzzles and escape from a themed room within a set time limit. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

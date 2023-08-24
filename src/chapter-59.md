@@ -1,5 +1,3 @@
-Raft-Building Competition
-============================================================
 
 Raft-Building Competition is a team-building activity that promotes collaboration, communication, and problem-solving by challenging teams to design and build a raft. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

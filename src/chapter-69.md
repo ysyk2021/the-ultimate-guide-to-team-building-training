@@ -1,5 +1,3 @@
-Social Media Scavenger Hunt
-==============================================================
 
 Social Media Scavenger Hunt is a team-building activity that promotes creativity, problem-solving, and communication by challenging teams to complete challenges and find items related to social media platforms. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

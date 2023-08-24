@@ -1,5 +1,3 @@
-Scavenger Hunt
-=================================================
 
 A Scavenger Hunt is a team-building activity that promotes problem-solving, teamwork, and fun. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

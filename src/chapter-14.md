@@ -1,5 +1,3 @@
-Board Game Night
-===================================================
 
 Board Game Night is a fun and engaging team-building activity that promotes teamwork, communication, and problem-solving skills. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

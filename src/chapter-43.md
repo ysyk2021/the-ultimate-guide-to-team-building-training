@@ -1,5 +1,3 @@
-Paper Airplane Contest
-=========================================================
 
 Paper Airplane Contest is a team-building activity that promotes creativity, problem-solving, and collaboration by challenging teams to design, build, and fly paper airplanes. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

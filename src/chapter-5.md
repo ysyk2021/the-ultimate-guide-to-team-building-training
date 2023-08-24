@@ -1,5 +1,3 @@
-Archery Tag
-==============================================
 
 Archery Tag is a thrilling team-building activity that promotes communication, strategy and teamwork. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

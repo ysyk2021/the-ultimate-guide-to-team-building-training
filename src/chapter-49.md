@@ -1,5 +1,3 @@
-Time Management Training
-===========================================================
 
 Time Management Training is a team-building activity that promotes productivity, organization, and effective communication. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

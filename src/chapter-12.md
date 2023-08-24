@@ -1,5 +1,3 @@
-Office Olympics
-==================================================
 
 Office Olympics is a team-building activity that promotes fun, creativity, and friendly competition within the workplace. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

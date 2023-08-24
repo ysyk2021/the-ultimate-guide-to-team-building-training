@@ -1,5 +1,3 @@
-Egg Drop Challenge
-=====================================================
 
 Egg Drop Challenge is a team-building activity that promotes creativity, problem-solving, and teamwork by challenging teams to design and build a contraption that will protect an egg from cracking when dropped from a height. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

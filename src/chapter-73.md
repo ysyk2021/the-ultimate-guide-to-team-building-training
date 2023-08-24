@@ -1,5 +1,3 @@
-Conflict Management Training
-===============================================================
 
 Conflict Management Training is a team-building activity that promotes conflict resolution skills, empathy and effective communication. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

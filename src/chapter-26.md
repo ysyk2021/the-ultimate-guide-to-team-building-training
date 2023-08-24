@@ -1,5 +1,3 @@
-Mock Trial Exercise
-======================================================
 
 Mock Trial Exercise is a team-building activity that promotes critical thinking, communication, and teamwork by simulating a mock trial in which teams take on the roles of lawyers and witnesses. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

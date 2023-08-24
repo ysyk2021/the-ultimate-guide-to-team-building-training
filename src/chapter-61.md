@@ -1,5 +1,3 @@
-Strategic Planning Retreat
-=============================================================
 
 A Strategic Planning Retreat is a team-building activity that promotes collaboration, goal-setting, and strategic thinking. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

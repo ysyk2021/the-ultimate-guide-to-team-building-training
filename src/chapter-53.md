@@ -1,5 +1,3 @@
-Public Speaking Workshop
-===========================================================
 
 A Public Speaking Workshop is a team-building activity that promotes communication, confidence, and presentation skills. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

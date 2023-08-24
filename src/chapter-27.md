@@ -1,5 +1,3 @@
-Outdoor Movie Night
-======================================================
 
 Outdoor Movie Night is a team-building activity that promotes relaxation, bonding, and communication in a fun and casual setting. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

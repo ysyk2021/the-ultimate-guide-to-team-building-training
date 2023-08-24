@@ -1,5 +1,3 @@
-Business Simulation Game
-===========================================================
 
 Business Simulation Game is a team-building activity that promotes business acumen, decision-making, and teamwork by simulating a business environment. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

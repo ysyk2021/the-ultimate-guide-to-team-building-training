@@ -1,5 +1,3 @@
-Sack Race
-============================================
 
 The Sack Race is a classic team-building activity that promotes teamwork, communication and problem-solving. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

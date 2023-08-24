@@ -1,5 +1,3 @@
-Feedback and Critique Training
-=================================================================
 
 Feedback and Critique Training is a team-building activity that promotes effective communication, collaboration, and continuous improvement by providing tools and techniques for giving and receiving feedback. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

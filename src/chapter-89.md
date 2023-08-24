@@ -1,5 +1,3 @@
-Diversity and Inclusion Training
-===================================================================
 
 Diversity and Inclusion Training is a team-building activity that promotes awareness, understanding, and appreciation of differences. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

@@ -1,5 +1,3 @@
-Zip-Lining Experience
-========================================================
 
 A Zip-Lining Experience is a team-building activity that promotes trust, communication, and overcoming fears. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

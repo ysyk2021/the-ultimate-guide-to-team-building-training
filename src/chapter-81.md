@@ -1,5 +1,3 @@
-Team-Building Challenge Course
-=================================================================
 
 The Team-Building Challenge Course is a physical activity that promotes teamwork, communication and problem-solving. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

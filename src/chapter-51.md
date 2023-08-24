@@ -1,5 +1,3 @@
-Risk Management Workshop
-===========================================================
 
 Risk Management Workshop is a team-building activity that promotes risk assessment, problem-solving, and collaboration by challenging teams to identify, assess, and manage risks in a simulated business scenario. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

@@ -1,5 +1,3 @@
-Group Brainstorming Session
-==============================================================
 
 Group Brainstorming Session is a team-building activity that promotes creativity, collaboration, and problem-solving by encouraging teams to generate ideas and solutions together. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

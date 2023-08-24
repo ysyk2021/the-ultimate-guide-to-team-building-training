@@ -1,5 +1,3 @@
-Escape Room Race
-===================================================
 
 Escape Room Race is a team-building activity that promotes problem-solving, collaboration, and communication by challenging teams to escape a room within a certain time frame. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

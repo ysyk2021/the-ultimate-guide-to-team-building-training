@@ -1,5 +1,3 @@
-Trust Exercise
-=================================================
 
 The Trust Exercise is a team-building activity that promotes trust, communication and collaboration. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

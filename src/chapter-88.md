@@ -1,5 +1,3 @@
-Group Meditation or Yoga Session
-===================================================================
 
 A Group Meditation or Yoga Session is a team-building activity that promotes mindfulness, stress reduction, and relaxation. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

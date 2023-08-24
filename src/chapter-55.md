@@ -1,5 +1,3 @@
-Puzzle-Solving Challenge
-===========================================================
 
 A Puzzle-Solving Challenge is a team-building activity that promotes problem-solving, collaboration, and creativity. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

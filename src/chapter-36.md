@@ -1,5 +1,3 @@
-Goal-Setting Workshop
-========================================================
 
 Goal-Setting Workshop is a team-building activity that promotes clarity, focus, and accountability by helping teams set and achieve their goals. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

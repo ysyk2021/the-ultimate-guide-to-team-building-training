@@ -1,5 +1,3 @@
-Communication Skills Workshop
-================================================================
 
 The Communication Skills Workshop is a focused team-building activity that promotes effective communication, active listening and collaboration. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

@@ -1,5 +1,3 @@
-Talent Show
-==============================================
 
 The Talent Show is a fun and creative team-building activity that promotes collaboration, communication and self-expression. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

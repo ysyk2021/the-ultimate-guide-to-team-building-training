@@ -1,5 +1,3 @@
-Karaoke Night
-================================================
 
 Karaoke Night is a team-building activity that promotes camaraderie, communication, and fun. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

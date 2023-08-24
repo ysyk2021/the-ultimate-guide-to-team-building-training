@@ -1,5 +1,3 @@
-Customer Service Training
-============================================================
 
 Customer Service Training is a team-building activity that promotes customer-centric thinking, communication, and problem-solving by providing participants with effective strategies for delivering excellent customer service. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

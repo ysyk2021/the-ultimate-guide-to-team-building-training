@@ -1,5 +1,3 @@
-Professional Development Conference
-======================================================================
 
 The Professional Development Conference is a comprehensive team-building activity that promotes learning, skill development and networking. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

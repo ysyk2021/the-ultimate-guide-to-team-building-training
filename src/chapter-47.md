@@ -1,5 +1,3 @@
-Improv or Theater Class
-==========================================================
 
 An Improv or Theater Class is a team-building activity that promotes creativity, communication and collaboration. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

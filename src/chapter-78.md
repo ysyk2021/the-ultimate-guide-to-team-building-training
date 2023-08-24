@@ -1,5 +1,3 @@
-Appreciative Inquiry Workshop
-================================================================
 
 Appreciative Inquiry Workshop is a team-building activity that promotes positive thinking, collaboration, and problem-solving by focusing on strengths and successes. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

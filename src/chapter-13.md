@@ -1,5 +1,3 @@
-Networking Event
-===================================================
 
 Networking Event is a team-building activity that promotes relationship building, communication, and collaboration by providing an opportunity for participants to connect with each other in a social setting. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

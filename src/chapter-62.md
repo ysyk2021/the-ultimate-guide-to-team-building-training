@@ -1,5 +1,3 @@
-Team-Building Ropes Course
-=============================================================
 
 The Team-Building Ropes Course is a physical activity that promotes trust, communication and teamwork. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

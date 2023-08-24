@@ -1,5 +1,3 @@
-Pro-Am Sports Event
-======================================================
 
 A Pro-Am Sports Event is a team-building activity that promotes teamwork, communication, and physical fitness. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

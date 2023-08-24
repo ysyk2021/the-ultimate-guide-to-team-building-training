@@ -1,5 +1,3 @@
-Giant Jenga Tournament
-=========================================================
 
 Giant Jenga Tournament is a team-building activity that promotes teamwork, communication, and problem-solving by challenging teams to work together to build and maintain a giant Jenga tower. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

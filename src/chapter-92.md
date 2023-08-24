@@ -1,5 +1,3 @@
-Music Video Production Challenge
-===================================================================
 
 The Music Video Production Challenge is a creative team-building activity that promotes collaboration, communication and innovation. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

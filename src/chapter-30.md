@@ -1,5 +1,3 @@
-Archery Competition
-======================================================
 
 Archery Competition is a team-building activity that promotes focus, accuracy, and teamwork by challenging teams to compete against each other in archery. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

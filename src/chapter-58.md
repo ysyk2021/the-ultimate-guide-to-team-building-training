@@ -1,5 +1,3 @@
-Charity Fundraising Event
-============================================================
 
 A Charity Fundraising Event is a team-building activity that promotes community engagement, collaboration, and social responsibility. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

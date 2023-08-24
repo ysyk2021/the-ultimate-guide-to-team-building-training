@@ -1,5 +1,3 @@
-Battle Of The Bands
-======================================================
 
 The Battle of the Bands is a creative team-building activity that promotes collaboration, communication and creativity. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

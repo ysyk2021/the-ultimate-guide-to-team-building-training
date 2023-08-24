@@ -1,5 +1,3 @@
-Cooking Class/Team Meal
-==========================================================
 
 A Cooking Class or Team Meal is a team-building activity that promotes collaboration, creativity, and shared experiences. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

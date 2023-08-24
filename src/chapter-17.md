@@ -1,5 +1,3 @@
-Trivia Competition
-=====================================================
 
 A Trivia Competition is a team-building activity that promotes knowledge-sharing, collaboration, and friendly competition. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

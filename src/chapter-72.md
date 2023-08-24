@@ -1,5 +1,3 @@
-Team-Building Scavenger Hunt
-===============================================================
 
 Team-Building Scavenger Hunt is a team-building activity that promotes problem-solving, collaboration, and communication by challenging teams to work together to solve clues and complete tasks. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

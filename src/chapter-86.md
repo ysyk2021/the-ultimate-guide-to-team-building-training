@@ -1,5 +1,3 @@
-Emotional Intelligence Training
-==================================================================
 
 Emotional Intelligence Training is a team-building activity that promotes self-awareness, empathy, and communication by providing participants with tools and strategies to better understand and manage their emotions. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

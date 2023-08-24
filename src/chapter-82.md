@@ -1,5 +1,3 @@
-Amazing Race-Style Competition
-=================================================================
 
 The Amazing Race-Style Competition is a fast-paced team-building activity that promotes communication, problem-solving and collaboration. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

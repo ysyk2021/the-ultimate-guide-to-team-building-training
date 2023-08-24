@@ -1,5 +1,3 @@
-Craft-Making Competition
-===========================================================
 
 Craft-Making Competition is a team-building activity that promotes creativity, collaboration, and problem-solving by challenging teams to design and create a craft. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

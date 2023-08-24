@@ -1,5 +1,3 @@
-Science Experiment Challenge
-===============================================================
 
 The Science Experiment Challenge is a team-building activity that promotes collaboration, problem-solving and creativity. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

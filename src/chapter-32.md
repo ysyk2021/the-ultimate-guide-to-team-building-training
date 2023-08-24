@@ -1,5 +1,3 @@
-Mystery Dinner Event
-=======================================================
 
 Mystery Dinner Event is a team-building activity that promotes collaboration, problem-solving, and communication by challenging teams to solve a mystery while enjoying a dinner event. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

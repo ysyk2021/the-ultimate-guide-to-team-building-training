@@ -1,5 +1,3 @@
-Karaoke Competition
-======================================================
 
 Karaoke Competition is a team-building activity that promotes fun, creativity, and communication in a relaxed and entertaining setting. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

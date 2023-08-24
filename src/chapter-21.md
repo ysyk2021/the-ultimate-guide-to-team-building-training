@@ -1,5 +1,3 @@
-Zorbing Competition
-======================================================
 
 Zorbing is a fun-filled team-building activity that promotes teamwork, communication, and trust. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

@@ -1,5 +1,3 @@
-Cornhole Tournament
-======================================================
 
 Cornhole Tournament is a team-building activity that promotes friendly competition, communication, and teamwork by challenging teams to play the popular game of cornhole. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 

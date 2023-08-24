@@ -1,5 +1,3 @@
-Conflict Resolution Workshop
-===============================================================
 
 Conflict Resolution Workshop is a team-building activity that promotes conflict resolution skills, effective communication, and collaboration by providing tools and techniques for resolving conflicts. This chapter will provide an overview of the activity, instructions on how to set it up, and tips for ensuring its success.
 
