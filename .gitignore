@@ -1,7 +1,8 @@
 book
-_book/
-node_modules/
-*.docx
-*.epub
+/node_modules/*
+/_book/*
 *.pdf
+*.epub
 *.mobi
+*.azw3
+*.docx

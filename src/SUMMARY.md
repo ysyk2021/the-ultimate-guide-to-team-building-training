@@ -102,3 +102,4 @@
 - [Collaborative Community Service Project](chapter-99.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
